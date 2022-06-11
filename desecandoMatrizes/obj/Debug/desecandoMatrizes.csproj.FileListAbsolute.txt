@@ -1,0 +1,8 @@
+C:\curso\desecandoMatrizes\desecandoMatrizes\bin\Debug\desecandoMatrizes.exe.config
+C:\curso\desecandoMatrizes\desecandoMatrizes\bin\Debug\desecandoMatrizes.exe
+C:\curso\desecandoMatrizes\desecandoMatrizes\bin\Debug\desecandoMatrizes.pdb
+C:\curso\desecandoMatrizes\desecandoMatrizes\obj\Debug\desecandoMatrizes.csproj.AssemblyReference.cache
+C:\curso\desecandoMatrizes\desecandoMatrizes\obj\Debug\desecandoMatrizes.csproj.SuggestedBindingRedirects.cache
+C:\curso\desecandoMatrizes\desecandoMatrizes\obj\Debug\desecandoMatrizes.csproj.CoreCompileInputs.cache
+C:\curso\desecandoMatrizes\desecandoMatrizes\obj\Debug\desecandoMatrizes.exe
+C:\curso\desecandoMatrizes\desecandoMatrizes\obj\Debug\desecandoMatrizes.pdb
